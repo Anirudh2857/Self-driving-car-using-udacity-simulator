@@ -2,7 +2,7 @@ this project aims to build a self-driving car using the Udacity Self-Driving Car
 
 The code is written in Python 3 and uses TensorFlow and Keras libraries for training the neural network.
 
-**Requirements**
+#Requirements#
 
 To run this project, you will need:
 
