@@ -7,11 +7,17 @@ Requirements
 To run this project, you will need:
 
 Python 3
+
 TensorFlow
+
 Keras
+
 NumPy
+
 OpenCV
+
 SocketIO
+
 Flask
 
 Udacity Simulator
@@ -23,19 +29,33 @@ Neural Network Architecture
 The neural network used in this project consists of the following layers:
 
 Input layer
+
 Convolutional layer with 24 filters
+
 Max pooling layer with a pool size of 2x2
+
 Convolutional layer with 36 filters
+
 Max pooling layer with a pool size of 2x2
+
 Convolutional layer with 48 filters
+
 Max pooling layer with a pool size of 2x2
+
 Convolutional layer with 64 filters
+
 Max pooling layer with a pool size of 2x2
+
 Convolutional layer with 64 filters
+
 Flatten layer
+
 Fully connected layer with 100 units
+
 Fully connected layer with 50 units
+
 Fully connected layer with 10 units
+
 Output layer with 1 unit (steering angle)
 
 Training the Neural Network
