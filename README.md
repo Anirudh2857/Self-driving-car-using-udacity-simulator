@@ -31,7 +31,7 @@ pip install numpy pandas matplotlib keras scikit-learn imgaug opencv-python
 2. Run the script to preprocess data and apply augmentation:
 
 ```bash
-python script.py
+python drive.py
 ```
 
 ## Explanation of Key Functions
